@@ -6,6 +6,5 @@ Note: This top section is just MetaData and gets stripped at the first blank lin
 
 ### Contact details: 
 
-            "name": "A person",
-            "url": "http://www.example.com/support",
-            "email": "aperson@example.com"
+            "name": "Tom Fitzherbert",
+            "email": "tom.fitzherbert@digital.homeoffice.gov.uk"
